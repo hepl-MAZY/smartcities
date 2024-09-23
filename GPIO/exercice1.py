@@ -56,41 +56,4 @@ while True:
             utime.sleep(blinking_time)
     utime.sleep_ms(500)
 
-"""
-    if val_button==0:#Not pressed
-        if transition==0:
-            for i in range(5):
-                led.value(not led.value())
-                utime.sleep_ms(10)
-            transition=1
-        led.value(0)
-    elif val_button == 1: #pressed once
-        if transition==0:
-            for i in range(5):
-                led.value(not led.value())
-                utime.sleep_ms(10)
-            transition=1
-        led.value(not led.value())
-        utime.sleep(2)
-    elif val_button == 2: #pressed twice
-        if transition==0:
-            for i in range(5):
-                led.value(not led.value())
-                utime.sleep_ms(10)
-            transition=1
-        led.value(not led.value())
-        utime.sleep(1)
-    elif val_button>2:
-        if transition==0:
-            for i in range(5):
-                led.value(not led.value())
-                utime.sleep_ms(10)
-            transition=1
-        print('Resetting button, button pressed : ',val_button)
-        led.value(0)
-        val_button=0
-        utime.sleep(1)
-    val_button=val_button+button.value()
-    print('Button pressed : \n',val_button)
-"""
     
