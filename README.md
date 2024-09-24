@@ -8,17 +8,17 @@ Raspberry Pi Pico series is a low-cost, high performance flexible microcontrolle
 
 ### Links
 
--[GPIO](GPIO/)
--[AD-PWM](AD-PWM/)
--[LCD](LCD/)
--[LED_neo](LED_neo/)
--[network](network/)
--[sensors](sensors/)
+- [GPIO](GPIO/)
+- [AD-PWM](AD-PWM/)
+- [LCD](LCD/)
+- [LED_neo](LED_neo/)
+- [network](network/)
+- [sensors](sensors/)
 
 
 ### Raspberry Pi Pico pinout
 
-![alt text](../picow-pinout.svg)
+![alt text](/picow-pinout.svg)
 
 ## Working environment
 
