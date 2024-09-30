@@ -30,9 +30,9 @@ The projects will be developed using VSCode. Here are the installed extentions u
 
 MicroPico is a Visual Studio Code extension designed to simplify and accelerate the development of MicroPython projects for the Raspberry Pi Pico and Pico W boards. Here are the key features:
 
--Auto completion
--Remote workspace
--REPL console
+- Auto completion
+- Remote workspace
+- REPL console
 
 
 
