@@ -3,7 +3,10 @@
 ## Overview
 
 This program plays 8 bars of the minuet in g from Bach with the volume being controlled by a potentiometer. Additionnally, the led turns on when a note is played and when the button is pressed, the same music will play but an octave higher. 
-![alt text](image-1.png)
+
+![alt text](1.png)
+
+![alt text](2.png)
 
 ## Components
 
