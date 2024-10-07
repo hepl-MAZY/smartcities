@@ -24,6 +24,10 @@ Here are the connections:
 - Rotary angle sensor connected to PIN A0
 - DHT11 sensor connected to PIN 18
 
+## Flowchart
+
+![alt text](flowchart.png)
+
 ## Program
 
 The program will read the rotary angle value then translate it into a temperature value then displays on lcd screen. It also displays the real measured temperature. 
