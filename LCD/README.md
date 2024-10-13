@@ -23,6 +23,9 @@ Here are the connections:
 - Buzzer connected to PIN D20
 - Rotary angle sensor connected to PIN A0
 - DHT11 sensor connected to PIN 18
+- Led Display connected to PIN I2C0
+
+![alt text](circuit_diagram.png)
 
 ## Flowchart
 
