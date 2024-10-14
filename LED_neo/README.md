@@ -25,7 +25,7 @@ Here are the connections:
 
 ## Program
 
-The program will read the sound sensor value and if above threshold (10% of 8 bit ADC here), will display a random colored light. If value below threshold, no light will be shown.
+The program will read the sound sensor value and if the value is above the threshold (10% of 8 bit ADC here), it will display a random colored light. If value below threshold, no light will be shown.
 
 ## Addtionnal features
 
