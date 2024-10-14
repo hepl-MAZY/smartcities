@@ -41,7 +41,7 @@ while True:
     wlan = network.WLAN(network.STA_IF)
     wlan.active(True)
     utime.sleep(3) # wait three seconds for the chip to power up and initialize
-    wlan.connect('NETGEAR95', 'kft4-i3al-c0si')
+    wlan.connect('NETGEAR95', '')
     print('Waiting for access point to log us in.')
     utime.sleep(2)
     if wlan.isconnected():
